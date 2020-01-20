@@ -7,6 +7,7 @@ order: 3
 permalink: /teaching
 
 ---
+
 I am currently Co-teaching Introduction to Computer Science (COMP 250) <a href="http://www.cs.mcgill.ca/~jeromew/comp250.html"> more information </a> 
 Here is the office hours calendar for COMP 250 Winter 2020:
 
