@@ -7,5 +7,8 @@ order: 3
 permalink: /teaching
 
 ---
-* Co-teaching Introduction to Computer Science (COMP 250) <a href="http://www.cs.mcgill.ca/~jeromew/comp250.html"> more information </a> 
-* I co-taught a course in the Computer Science department Fall 2017 (COMP 364) covering Python as applied to biological problems. If you are interested click <a href="http://www.cs.mcgill.ca/~cgonza11/COMP_364" target="_blank">here</a> for all the material. 
+* I am currently Co-teaching Introduction to Computer Science (COMP 250) <a href="http://www.cs.mcgill.ca/~jeromew/comp250.html"> more information </a> 
+
+Here is the office hours calendar for COMP 250 Winter 2020:
+
+<iframe src="https://calendar.google.com/calendar/embed?src=lrjbtenv4id3ti9t0cld94i5og%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
