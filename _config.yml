@@ -26,3 +26,5 @@ collections:
 
 #gems:
 #  - jekyll-assets
+
+theme: jekyll-theme-minimal
