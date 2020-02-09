@@ -10,15 +10,14 @@ permalink: /teaching
 
 I am currently co-teaching Introduction to Computer Science (COMP 250).
 
-**Lecture Slides**
-
-* Arrays and Array Lists ([PDF]({{ site.url }}/assets/lectures/lec12.pdf))
-* Singly Linked Lists ([PDF]({{ site.url }}/assets/lectures/lec13.pdf))
-* Doubly Linked Lists ([PDF]({{ site.url }}/assets/lectures/lec14.pdf))
-* Quadratic Time Sorting ([PDF]({{ site.url }}/assets/lectures/lec15.pdf))
-* ADTs - Stacks ([PDF]({{ site.url }}/assets/lectures/lec16.pdf))
-* ADTs - Queues ([PDF]({{ site.url }}/assets/lectures/lec17.pdf))
-
+| **Lecture** | **Topic** | 
+|-------|--------|
+| 12 | ([Arrays and Array Lists]({{ site.url }}/assets/lectures/lec12.pdf)) |
+| 13 | ([Singly Linked Lists]({{ site.url }}/assets/lectures/lec13.pdf)) |
+| 14 | ([Doubly Linked Lists]({{ site.url }}/assets/lectures/lec14.pdf)) |
+| 15 | ([Quadratic Time Sorting]({{ site.url }}/assets/lectures/lec15.pdf)) |
+| 16 | ([ADTs - Stacks]({{ site.url }}/assets/lectures/lec16.pdf)) |
+| 17 | ([ADTs - Queues]({{ site.url }}/assets/lectures/lec17.pdf)) |
 
 
 Here is the office hours calendar for COMP 250 Winter 2020:
