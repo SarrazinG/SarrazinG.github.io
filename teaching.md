@@ -10,7 +10,7 @@ permalink: /teaching
 
 I am currently co-teaching Introduction to Computer Science (COMP 250).
 
-** Lecture Slides **
+**Lecture Slides**
 
 * Arrays and Array Lists ([PDF]({{ site.url }}/assets/lectures/lec12.pdf))
 * Singly Linked Lists ([PDF]({{ site.url }}/assets/lectures/lec13.pdf))
