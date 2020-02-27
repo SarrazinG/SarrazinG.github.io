@@ -8,4 +8,4 @@ order: 4
 
 ---
 
-* [2017 RNA Bionformatics Workshop]({{ site.baseurl  }}{% link misc/rna.md %})
+* [2017 RNA Bioinformatics Workshop]({{ site.baseurl  }}{% link misc/rna.md %})
