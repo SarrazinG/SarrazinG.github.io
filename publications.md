@@ -7,7 +7,7 @@ nav: true
 order: 2
 
 ---
-**Papers awaiting peer review**
+**Papers currently undergoing peer review**
 
 * C.G. Oliver, V. Mallet, **R. Sarrazin-Gendron**, V. Reinharz, W.L. Hamilton, N. Moitessier, J. Waldispühl. *Augmented base pairing networks encode RNA-small molecule binding preferences*. bioRxiv [full text](https://www.biorxiv.org/content/10.1101/701326v3)
 
