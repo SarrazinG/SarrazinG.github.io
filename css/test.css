@@ -164,7 +164,7 @@ a:not([class]) {
 /* Make links red */
 a,
 a:visited {
-  color: #a00;
+  color: #075FCF;
 }
 
 a:focus {
