@@ -9,18 +9,27 @@ order: 2
 ---
 **Papers currently undergoing peer review**
 
-* C.G. Oliver, V. Mallet, **R. Sarrazin-Gendron**, V. Reinharz, W.L. Hamilton, N. Moitessier, J. Waldispühl. *Augmented base pairing networks encode RNA-small molecule binding preferences*. bioRxiv [full text](https://www.biorxiv.org/content/10.1101/701326v3)
-
-* A. Soulé, V. Reinharz, **R. Sarrazin-Gendron**, A. Denise, J. Waldispühl. *Finding recurrent RNA structural networks with fast maximal common subgraphs of edge-colored graphs*. bioRxiv [full text](https://www.biorxiv.org/content/10.1101/2020.02.02.930453v1.abstract)
+Nothing to report here, I should probably start doing something if I want to finish my PhD.
 
 
 
 **Peer-reviewed papers**
-* **R. Sarrazin-Gendron**, H. Yao, V. Reinharz, C. Oliver, Y. Ponty and J. Waldispühl. *Stochastic Sampling of Structural Contexts Improves the Scalability and Accuracy of RNA 3D Module Identification*, RECOMB 2020 [full text](https://www.biorxiv.org/content/10.1101/834762v2).
+
+* A. Soulé, V. Reinharz, **R. Sarrazin-Gendron**, A. Denise, J. Waldispühl. *Finding recurrent RNA structural networks with fast maximal common subgraphs of edge-colored graphs*, PLOS Computational Biology (2021) [full text](https://doi.org/10.1371/journal.pcbi.1008990)
+
+* C.G. Oliver, V. Mallet, **R. Sarrazin-Gendron**, V. Reinharz, W.L. Hamilton, N. Moitessier, J. Waldispühl. *Augmented base pairing networks encode RNA-small molecule binding preferences*. Nucleic acids research (2020) [full text](https://doi.org/10.1093/nar/gkaa583)
+
+* **R. Sarrazin-Gendron**, H. Yao, V. Reinharz, C. Oliver, Y. Ponty and J. Waldispühl. *Stochastic Sampling of Structural Contexts Improves the Scalability and Accuracy of RNA 3D Module Identification*, RECOMB Proceedings (2020) [full text](https://hal.inria.fr/hal-02354733/file/BayesPairing2_recomb_submitted.pdf).
 
 * **R. Sarrazin-Gendron**, V. Reinharz, C. G. Oliver, N. Moitessier and J. Waldispühl. *Automated, customizable and efficient identification of 3D base pair modules with BayesPairing.* Nucleic acids research (2019) [full text](https://academic.oup.com/nar/article/47/7/3321/5369007).  
 
 * K. Kenyon-Dean, E. Ahmed, S. Fujimoto, ..., **R. Sarrazin-Gendron** et al. *Sentiment Analysis: It's Complicated!*. NAACL 2018 [full text](https://www.aclweb.org/anthology/N18-1171.pdf)
+
+
+**Textbook Chapters**
+
+[Modeling and Predicting RNA Three-Dimensional Structures](https://academic.oup.com/nar/article/47/7/3321/5369007), RNA Bioinformatics, Springer (2021). [preprint full text](https://dx.doi.org/10.1007/978-1-0716-1307-8_2).
+
 
 **Software and web-servers**
 
