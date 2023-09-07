@@ -7,6 +7,7 @@ order: 3
 permalink: /teaching
 
 ---
+I am currently a lecturer at Université du Québec à Montréal, teaching [BIF7100 - Algorithms & Data Structures](https://etudier.uqam.ca/cours?sigle=BIF7100) in Fall 2023.
 
 In Fall 2021, I co-taught Algorithms & Data Structures (COMP 251) with Prof. Jérôme Waldispühl. All the information, course outline, and slides can be found on the [course website](https://www.cs.mcgill.ca/~jeromew/comp251.html).
 
@@ -16,4 +17,3 @@ I regularly acted as head TA for [COMP 251 - Algorithms & Data Structures](https
 
 I have also occasionally TAed COMP 202 - Foundations of Programming, COMP 364 - Computer Tools for Life Sciences, as well as [COMP 564 - Advanced Computational Biology Methods and Research](https://www.cs.mcgill.ca/~jeromew/comp564.html). 
 
-Please consider taking COMP 564, it's a really cool class, I promise!

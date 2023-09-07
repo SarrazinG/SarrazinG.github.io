@@ -9,11 +9,13 @@ order: 2
 ---
 **Papers currently undergoing peer review**
 
-Nothing to report here, I should probably start doing something if I want to finish my PhD.
+* Several papers related to Borderlands Science are currently under review, more news to come soon!
 
-
+* Also, a couple papers about bioinformatics software
 
 **Peer-reviewed papers**
+
+* Renata Mutalova, **Roman Sarrazin-Gendron**, Eddie Cai, Gabriel Richard, Parham Ghasemloo Gheidari, Sébastien Caisse, Rob Knight, Mathieu Blanchette, Attila Szantner, and Jérôme Waldispühl. 2023. Playing the System: Can Puzzle Players Teach us How to Solve Hard Problems? In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 679, 1–15. [full text](https://doi.org/10.1145/3544548.3581375)
 
 * A. Soulé, V. Reinharz, **R. Sarrazin-Gendron**, A. Denise, J. Waldispühl. *Finding recurrent RNA structural networks with fast maximal common subgraphs of edge-colored graphs*, PLOS Computational Biology (2021) [full text](https://doi.org/10.1371/journal.pcbi.1008990)
 
