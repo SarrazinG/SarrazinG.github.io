@@ -7,7 +7,7 @@ order: 3
 permalink: /teaching
 
 ---
-I am currently a lecturer at Université du Québec à Montréal, teaching [BIF7100 - Algorithms & Data Structures](https://etudier.uqam.ca/cours?sigle=BIF7100) in Fall 2023.
+I am currently a lecturer at Université du Québec à Montréal, teaching [BIF7100 - Ressources bioinformatiques et bioinformatique séquentielle](https://etudier.uqam.ca/cours?sigle=BIF7100) in Fall 2023.
 
 In Fall 2021, I co-taught Algorithms & Data Structures (COMP 251) with Prof. Jérôme Waldispühl. All the information, course outline, and slides can be found on the [course website](https://www.cs.mcgill.ca/~jeromew/comp251.html).
 
