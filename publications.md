@@ -10,7 +10,6 @@ order: 2
 **Peer-reviewed papers**
 
 * Eddie Cai, **Roman Sarrazin-Gendron**, Renata Mutalova, Parham Ghamsemloo Gheidari, Mathieu Blanchette, S ́ebastien Caisse, Rob Knight, Attila Szantner, Jérôme Waldispühl. *Learning the Game: Decoding the Differences Between Novice and Expert Players in a Citizen Science Game With Millions of Players*. 
-
 Accepted at Foundations of Digitial Games, February 2024.
 
 * **Roman Sarrazin-Gendron**, Parham Ghasemloo, Alexander Butyaev, Timothy Keding, Eddie Cai, Jiayue Zheng, Renata Mutalova, Julien Mounthanyvong, Yuxue Zhu, Elena Nazarova, Chrisostomos Drogaris, Kornel Erhart, Gearbox Software Borderlands Science consortium, Borderlands Science players, Amélie Brouillette, Gabriel Richard, Randy Pitchford, Sébastien Caisse, Mathieu Blanchette, Daniel McDonald, Rob Knight, Attila Szantner, Jérôme Waldispühl. *Improving microbial phylogeny with citizen science within a mass-market video game*. 
