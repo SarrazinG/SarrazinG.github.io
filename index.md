@@ -5,7 +5,7 @@ title: "Roman Sarrazin-Gendron"
 
 ---
 
-# **Bonjour**
+### **Bonjour**
 
 Je suis professeur régulier à l'Université du Québec à Montréal, travaillant principalement en bioinformatique. Mes principaux intérêts de recherche sont la bioinformatique, principalement liée à l'ARN et au microbiome humain, l'intelligence artificielle, et les jeux de science participative.
 
@@ -18,9 +18,11 @@ Mon travail en science participative se concentre sur le développement d'un jeu
 *Note: la version bilingue de ce site est présentement en construction.*
 
 ---
+<div style="text-align: center;">
 
-# **Hello**
+### **Hello**
 
+</div>
 I am a professor at the Université du Québec à Montréal, working primarily in bioinformatics. My main research interests are computational biology, mostly related to RNA and the human microbiome, artificial intelligence, and citizen science games.
 
 I completed my doctorate in 2024 under the supervision of [Jérôme Waldispühl](http://www.cs.mcgill.ca/~jeromew/) and [Vladimir Reinharz](http://cbe.uqam.ca/).
