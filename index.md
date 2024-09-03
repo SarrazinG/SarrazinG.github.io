@@ -17,6 +17,7 @@ Mon travail en science participative se concentre sur le développement d'un jeu
 
 *Note: la version bilingue de ce site est présentement en construction.*
 
+---
 
 # **Hello**
 
