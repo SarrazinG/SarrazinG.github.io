@@ -1,7 +1,6 @@
 ---
 
 layout: page
-title: "Roman Sarrazin-Gendron"
 
 ---
 
